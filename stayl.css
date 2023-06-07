@@ -188,8 +188,7 @@ body {
         position: relative;
       display: block;
       margin: auto;
-      height: 600px;
-      width: 90%;
+      height: 70vh;
       background-color: #d6f1f1;
       margin: 50px;
       border-radius: 6px;
@@ -204,7 +203,7 @@ body {
     }
 
     .texto {
-        padding: 50px 50px;
+        padding: 20px 20px;
         font-family: Arial, Helvetica, sans-serif;
         font-size: large;
     }
@@ -217,4 +216,17 @@ body {
         background-image: linear-gradient(to top, rgb(35, 182, 192), rgb(15, 59, 59));
         padding: 20px;
         box-shadow: 2px 2px 5px rgba(31, 31, 31, 0.767);
+    }
+
+    .nome-per {
+      text-align: center;
+      background-image: linear-gradient(to top, rgb(20, 63, 65), rgb(0, 0, 0));
+      color: #fff;
+      padding: 8px 0px;
+      border-radius: 8px 8px 0px 0px;
+      box-shadow: 2px 2px 5px rgba(31, 31, 31, 0.767);
+      border: 2px solid #fff;
+      border-top: none;
+      border-left: none;
+      border-right: none;
     }
