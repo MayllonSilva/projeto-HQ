@@ -170,6 +170,7 @@ body {
 
     main > h1 {
         text-align: center;
+        margin-top: 20px;
     }
 
     .cimagem {
@@ -201,6 +202,7 @@ body {
         margin: auto;
         height: 90%;
         box-shadow: 2px 2px 5px rgb(0, 17, 17);
+        border-radius: 8px;
     }
 
     .texto {
@@ -235,11 +237,59 @@ body {
       color: #fff;
       padding: 8px 0px;
       border-radius: 8px 8px 0px 0px;
-      box-shadow: 2px 2px 5px rgba(31, 31, 31, 0.767);
+      box-shadow: 1px 1px 4px rgba(31, 31, 31, 0.767);
       border: 2px solid #ffffff;
       border-top: none;
       border-left: none;
       border-right: none;
       margin: 0px;
       padding: 5px 0px 20px 0px;
+    }
+
+    aside {
+      background-color: #20b6ca;
+      box-shadow: 2px 2px 5px black;
+      min-width: 300px;
+      max-width: 1040px;
+      margin: auto;
+      text-align: center;
+      padding: 8px;
+      border-radius: 8px;
+    }
+
+    aside > h2 {
+      display: flex;
+      flex-direction: column
+    }
+
+    aside > a {
+      text-decoration: none;
+    }
+
+    #img-personagem {
+      height: 300px;
+      border-radius: 8px;
+    }
+
+    aside > span { 
+      display: flex;
+      flex-direction: column;
+    }
+
+    footer > p {
+      text-align: center;
+      background-color: black;
+      color: white;
+      padding: 8px;
+      font: 0.8em Arial, Helvetica, sans-serif;
+      font-weight: bold;
+    }
+
+    footer {
+      margin: auto;
+    }
+
+    footer a {
+      text-decoration: none;
+      color: rgb(17, 196, 219);
     }
