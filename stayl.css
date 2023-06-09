@@ -227,52 +227,52 @@ body {
     }
 
     .con1 {
-      background-image: url(imagem/pexels-feng-zou-5709689.jpg);
+      background-image: url(imagem/pexels\(2\)-alessandro-bonanni-11511115.jpg);
       box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.479);
       background-size: cover;
       background-attachment: fixed;
-      background-position: top center;
-      background-size: 100%;
+      background-position: center center;
+      background-size: 100vh;
       background-repeat: no-repeat;
     }
 
     .con2 {
-      background-image: url(imagem/pexels-alessandro-bonanni-11511115.jpg);
+      background-image: url(imagem/pexels\(2\)-alessandro-bonanni-11511115.jpg);
       box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.479);
       background-size: cover;
       background-attachment: fixed;
-      background-position: top center;
-      background-size: 100%;
+      background-position: center center;
+      background-size: 100vh;
       background-repeat: no-repeat;
     }
 
     .con3 {
-      background-image: url(imagem/pexels-michael-burrows-7147489.jpg);
+      background-image: url(imagem/wepik\(2\)-export-20230609165420ekBW.jpeg);
       box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.479);
       background-size: cover;
       background-attachment: fixed;
-      background-position: top center;
-      background-size: 100%;
+      background-position: center left;
+      background-size: 100vh;
       background-repeat: no-repeat;
     }
 
     .con4 {
-      background-image: url(imagem/pexels-lumn-616849.jpg);
+      background-image: url(imagem/pexels\(2\)-michael-burrows-7147489.jpg);
       box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.479);
       background-size: cover;
       background-attachment: fixed;
-      background-position: top center;
-      background-size: 100%;
+      background-position: center;
+      background-size: 100vh;
       background-repeat: no-repeat;
     }
 
     .con5 {
-      background-image: url(imagem/pexels-tatiana-syrikova-3932735.jpg);
+      background-image: url(imagem/pexels\(2\)-lumn-616849.jpg);
       box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.479);
       background-size: cover;
       background-attachment: fixed;
-      background-position: top center;
-      background-size: 100%;
+      background-position: center;
+      background-size: 100vh;
       background-repeat: no-repeat;
     }
 
