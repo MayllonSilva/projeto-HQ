@@ -1,5 +1,5 @@
 body {
-    height: 496vh;
+    height: 488vh;
     margin: 0px;
     background-color: rgb(170, 205, 206);
 }
@@ -251,6 +251,7 @@ body {
       background-position: center center;
       background-size: 100vh;
       background-repeat: no-repeat;
+      background-color: #ffffff;
     }
 
     .con2 {
@@ -258,9 +259,10 @@ body {
       box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.479);
       background-size: cover;
       background-attachment: fixed;
-      background-position: center right;
+      background-position: center;
       background-size: 100vh;
       background-repeat: no-repeat;
+      background-color: #ffffff;
     }
 
     .con3 {
@@ -269,8 +271,9 @@ body {
       background-size: cover;
       background-attachment: fixed;
       background-position: center;
-      background-size: 75vh;
+      background-size: 100vh;
       background-repeat: no-repeat;
+      background-color: #ffffff;
     }
 
     .con4 {
@@ -281,6 +284,7 @@ body {
       background-position: center;
       background-size: 100vh;
       background-repeat: no-repeat;
+      background-color: #ffffff;
     }
 
     .con5 {
@@ -291,9 +295,10 @@ body {
       background-position: center bottom;
       background-size: 80vh;
       background-repeat: no-repeat;
+      background-color: #ffffff;
     }
 
-    @keyframes conteudo {
+    /* @keyframes conteudo {
       0% {
         height: 40vh;
       }
@@ -301,7 +306,7 @@ body {
       100% {
         height: 80vh;
       }
-    }
+    } */
 
     .per-img {
         display: block;
